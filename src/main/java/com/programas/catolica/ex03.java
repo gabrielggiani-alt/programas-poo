@@ -12,7 +12,7 @@ public class ex03 {
         System.out.print("Peso 3: "); double p3 = sc.nextDouble();
 
         double media = (n1*p1 + n2*p2 + n3*p3) / (p1 + p2 + p3);
-        System.out.printf("Média ponderada: %.2f%n", media);
+        System.out.printf("Media ponderada: %.2f%n", media);
     }
         
    }

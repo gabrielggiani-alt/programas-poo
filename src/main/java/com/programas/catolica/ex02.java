@@ -13,6 +13,6 @@ public class ex02 {
         double n3 = sc.nextDouble();
 
         double media = (n1 + n2 + n3) / 3;
-        System.out.printf("Média aritmética: %.2f%n", media);
+        System.out.printf("Media aritmetica: %.2f%n", media);
     }
 }

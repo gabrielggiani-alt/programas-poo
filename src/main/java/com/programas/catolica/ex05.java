@@ -5,7 +5,7 @@ public class ex05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Salário atual: R$ ");
+        System.out.print("Salario atual: R$ ");
         double salario = sc.nextDouble();
         System.out.print("Percentual de aumento (%): ");
         double percentual = sc.nextDouble();

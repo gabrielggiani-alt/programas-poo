@@ -5,7 +5,7 @@ public class ex06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Salário base: R$ ");
+        System.out.print("Salario base: R$ ");
         double salarioBase = sc.nextDouble();
 
         double gratificacao = salarioBase * 0.05;
@@ -14,6 +14,6 @@ public class ex06 {
 
         System.out.printf("Gratificação (5%%): R$ %.2f%n", gratificacao);
         System.out.printf("Imposto (7%%): R$ %.2f%n", imposto);
-        System.out.printf("Salário a receber: R$ %.2f%n", salarioFinal);
+        System.out.printf("Salario a receber: R$ %.2f%n", salarioFinal);
     }
 }
