@@ -1,18 +1,23 @@
-# Programas - POO
+# programas-poo
 
-Repositório com exercícios da disciplina de Programação Orientada a Objetos.
+Object-oriented programming exercises developed during the OOP course at UCB.
 
-## Exercícios
+## Exercises
 
 ### exercicio-produto
-Classe Produto representando um produto em um sistema de controle de estoque.
-Contém os arquivos Produto.java e `TestaProduto.java.
+`Produto.java` class representing a product in a stock control system.
+Includes `Produto.java` and `TestaProduto.java`.
 
-### src/main/java
-Exercícios da Lista 01 utilizando a classe Scanner.
-Contém os arquivos ex01.java até ex06.java
+### src/main/java — Lista 01
+Exercises using the `Scanner` class for user input.
+Files: `ex01.java` through `ex06.java`.
 
 ### SistemaAvaliacaoUniversitaria
-Sistema de avaliação universitária que aplica os conceitos de herança, abstração e polimorfismo.
-Possui as classes abstratas ProvaUniversidade e ProvaFinalUniversidade, com as subclasses ProvaUCB, ProvaFafifo, ProvaAV3UCB e ProvaFinalFafifo.
-A classe principal Teste demonstra o cálculo de médias e a aplicação da prova final em cada instituição.
+University grading system applying inheritance, abstraction and polymorphism.
+
+- Abstract classes: `ProvaUniversidade`, `ProvaFinalUniversidade`
+- Subclasses: `ProvaUCB`, `ProvaFafifo`, `ProvaAV3UCB`, `ProvaFinalFafifo`
+- Main class `Teste` demonstrates GPA calculation and final exam logic across institutions
+
+## Tech
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
