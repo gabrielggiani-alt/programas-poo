@@ -1,6 +1,8 @@
-# programas-poo
+# Java OOP Coursework — UCB
 
-Object-oriented programming projects and exercises written in Java.
+Object-oriented programming exercises in Java from the OOP course at Universidade Católica de Brasília.
+
+The library management system that started here now lives in its own repository: [library-management-system](https://github.com/gabrielggiani-alt/library-management-system).
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
@@ -16,7 +18,7 @@ A library management system with full CRUD on four modules (Author, Book, User, 
 - In-memory storage with `ArrayList` and a borrow/return business rule that updates book availability
 - Includes a slide deck (`Apresentacao_Biblioteca.pdf`)
 
-📁 [`SistemaBiblioteca/`](SistemaBiblioteca/)
+[`SistemaBiblioteca/`](SistemaBiblioteca/) · published at [library-management-system](https://github.com/gabrielggiani-alt/library-management-system)
 
 ---
 
